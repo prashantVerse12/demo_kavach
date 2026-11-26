@@ -1,0 +1,20 @@
+{
+  "demoOnly": true,
+  "templates": [
+    {
+      "id": "classic-editorial",
+      "name": "Classic Editorial",
+      "description": "Single-column document layout with clear typographic hierarchy."
+    },
+    {
+      "id": "technical-brief",
+      "name": "Technical Brief",
+      "description": "Structured two-part header with monospace metadata row."
+    },
+    {
+      "id": "compact-grid",
+      "name": "Compact Grid",
+      "description": "Condensed skills and experience layout for quick inspection."
+    }
+  ]
+}

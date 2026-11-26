@@ -1,0 +1,83 @@
+{
+  "demoOnly": true,
+  "stored": false,
+  "count": 4,
+  "records": [
+    {
+      "id": "fake-01",
+      "label": "Fake Record 01 — Baseline Analyst",
+      "fullName": "Aarav Deshmukh (Fake Record)",
+      "targetRole": "Junior Security Researcher",
+      "email": "aarav.fake01@example.invalid",
+      "location": "Bengaluru, IN (Synthetic)",
+      "template": "classic-editorial",
+      "summary": "Aspiring application security analyst practicing static code review and DOM sink identification with synthetic test profiles.",
+      "skills": ["Static Analysis", "DOM Inspection", "HTTP Mapping", "Technical Writing"],
+      "experience": [
+        {
+          "role": "AppSec Intern (Fictional)",
+          "organization": "Northstar Training Lab (Fake Org)",
+          "period": "2025 — 2026",
+          "highlight": "Cataloged same-site routes and documented safe textContent migration steps."
+        }
+      ]
+    },
+    {
+      "id": "fake-02",
+      "label": "Fake Record 02 — Marker Comparison",
+      "fullName": "Meera Nair (Fake Record)",
+      "targetRole": "Frontend Quality Engineer",
+      "email": "meera.fake02@example.invalid",
+      "location": "Kochi, IN (Synthetic)",
+      "template": "technical-brief",
+      "summary": "Frontend engineer verifying <mark data-kavach=\"marker-02\">[KAVACH_DEMO_MARKER]</mark> output across <b>innerHTML</b> and textContent sinks.",
+      "skills": ["TypeScript", "Browser DOM APIs", "Accessibility", "Regression Audits"],
+      "experience": [
+        {
+          "role": "UI Reliability Trainee (Fictional)",
+          "organization": "CivicWeb Sandbox (Fake Org)",
+          "period": "2024 — 2026",
+          "highlight": "Replaced legacy HTML string concatenation with textContent bindings across profile views."
+        }
+      ]
+    },
+    {
+      "id": "fake-03",
+      "label": "Fake Record 03 — Compact Brief",
+      "fullName": "Rohan Kulkarni (Fake Record)",
+      "targetRole": "Platform Documentation Lead",
+      "email": "rohan.fake03@example.invalid",
+      "location": "Pune, IN (Synthetic)",
+      "template": "compact-grid",
+      "summary": "Technical writer building reproducible training guides with <u>[HARMLESS_TRACE_TAG]</u> markers and zero external dependencies.",
+      "skills": ["Threat Modeling Notes", "Markdown Specs", "Route Inventory", "Verification Logs"],
+      "experience": [
+        {
+          "role": "Lab Maintainer (Fictional)",
+          "organization": "Horizon Cyber Range (Fake Org)",
+          "period": "2023 — 2026",
+          "highlight": "Maintained air-gapped training targets with synthetic JSON fixtures only."
+        }
+      ]
+    },
+    {
+      "id": "fake-04",
+      "label": "Fake Record 04 — Clean Template",
+      "fullName": "Ananya Verma (Fake Record)",
+      "targetRole": "Systems Verification Specialist",
+      "email": "ananya.fake04@example.invalid",
+      "location": "Hyderabad, IN (Synthetic)",
+      "template": "classic-editorial",
+      "summary": "Verification engineer focused on evidence-based reporting where findings require reproducible DOM observation.",
+      "skills": ["Evidence Verification", "Code Auditing", "React State Flow", "Node.js Tooling"],
+      "experience": [
+        {
+          "role": "Audit Fellow (Fictional)",
+          "organization": "Meridian Testbed (Fake Org)",
+          "period": "2025 — 2026",
+          "highlight": "Authored Phase 2 review checklists pairing vulnerable sinks with drop-in textContent fixes."
+        }
+      ]
+    }
+  ]
+}

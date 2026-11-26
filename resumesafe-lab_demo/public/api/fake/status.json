@@ -1,0 +1,14 @@
+{
+  "service": "ResumeSafe Lab",
+  "mode": "authorized-training-target",
+  "externalRequests": false,
+  "persistence": "none",
+  "dataPolicy": "fake-records-only",
+  "sameSiteRoutes": ["/", "/builder", "/preview", "/records", "/phase2"],
+  "fakeEndpoints": [
+    "/api/fake/status",
+    "/api/fake/resumes",
+    "/api/fake/templates",
+    "/api/fake/echo-preview"
+  ]
+}

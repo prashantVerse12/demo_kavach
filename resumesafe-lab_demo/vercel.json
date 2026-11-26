@@ -1,0 +1,15 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "vite",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "rewrites": [
+    { "source": "/api/fake/status", "destination": "/api/fake/status.json" },
+    { "source": "/api/fake/resumes", "destination": "/api/fake/resumes.json" },
+    { "source": "/api/fake/templates", "destination": "/api/fake/templates.json" },
+    { "source": "/builder", "destination": "/index.html" },
+    { "source": "/preview", "destination": "/index.html" },
+    { "source": "/records", "destination": "/index.html" },
+    { "source": "/phase2", "destination": "/index.html" }
+  ]
+}

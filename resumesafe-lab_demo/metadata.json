@@ -1,0 +1,6 @@
+{
+  "name": "ResumeSafe Lab",
+  "description": "Authorized cybersecurity training target for KAVACH Phase 1 site mapping and Phase 2 DOM rendering analysis using fake data only.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
